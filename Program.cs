@@ -2,4 +2,4 @@
 //atividade2.executar();
 //atividade3.executar();
 //atividade4.executar();
-//atividade5.executar();
+atividade5.executar();

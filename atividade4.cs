@@ -1,0 +1,20 @@
+
+
+/*## Atv4 - Tabuada
+
+Crie um programa que peça um número ao usuário e mostre a tabuada desse número de `1` até `10`.
+ (proíbido o uso de foreach ou qualquer outro tipo, é permitido somente o uso de for) */
+
+public static class atividade4
+{
+    public static void executar()
+    {
+        Console.WriteLine("Digite um número para ver a tabuada:");
+        int numero = int.Parse(Console.ReadLine());
+
+        for (int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine($"{numero} x {i} = {numero * i}");
+        }
+    }
+}

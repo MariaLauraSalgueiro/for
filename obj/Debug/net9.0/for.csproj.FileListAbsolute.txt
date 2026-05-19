@@ -1,0 +1,15 @@
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\for.AssemblyInfoInputs.cache
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\for.AssemblyInfo.cs
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\for.csproj.CoreCompileInputs.cache
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\for.sourcelink.json
+C:\Users\50363240802\Desktop\workspace\LP\for\bin\Debug\net9.0\for.exe
+C:\Users\50363240802\Desktop\workspace\LP\for\bin\Debug\net9.0\for.deps.json
+C:\Users\50363240802\Desktop\workspace\LP\for\bin\Debug\net9.0\for.runtimeconfig.json
+C:\Users\50363240802\Desktop\workspace\LP\for\bin\Debug\net9.0\for.dll
+C:\Users\50363240802\Desktop\workspace\LP\for\bin\Debug\net9.0\for.pdb
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\for.dll
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\refint\for.dll
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\for.pdb
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\for.genruntimeconfig.cache
+C:\Users\50363240802\Desktop\workspace\LP\for\obj\Debug\net9.0\ref\for.dll

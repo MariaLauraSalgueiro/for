@@ -16,13 +16,14 @@ Exemplo de saída:
 18
 20
 ```*/
+
 public static class atividade3
 {
     public static void executar()
     {
-        for (int i = 2; i <= 20; i += 2)
+        for (int contador = 2; contador <= 20; contador += 2)
         {
-            Console.WriteLine(i);
+            Console.WriteLine(contador);
         }
     }
 }

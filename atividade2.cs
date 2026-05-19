@@ -7,9 +7,9 @@ public static class atividade2
 {
     public static void executar()
     {
-        for (int i = 20; i >= 1; i--)
+        for (int contador = 20; contador >= 1; contador--)
         {
-            Console.WriteLine(i);
+            Console.WriteLine(contador);
         }
     }
 }

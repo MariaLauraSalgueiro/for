@@ -15,17 +15,17 @@ public static class atividade5
         int numero = int.Parse(Console.ReadLine());
 
         Console.WriteLine("Usando for:");
-        for (int i = 1; i <= 10; i++)
+        for (int contador = 1; contador <= 10; contador++)
         {
-            Console.WriteLine($"{numero} x {i} = {numero * i}");
+            Console.WriteLine($"{numero} x {contador} = {numero * contador}");
         }
 
         Console.WriteLine("\nUsando while:");
-        int j = 1;
-        while (j <= 10)
+        int contadorWhile = 1;
+        while (contadorWhile <= 10)
         {
-            Console.WriteLine($"{numero} x {j} = {numero * j}");
-            j++;
+            Console.WriteLine($"{numero} x {contadorWhile} = {numero * contadorWhile}");
+            contadorWhile++;
         }
     }
 }
